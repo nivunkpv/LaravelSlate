@@ -1,0 +1,11 @@
+[x-cloak] {
+    display: none !important;
+}
+
+.animated {
+    transition: all 200ms ease-in-out;
+}
+
+.animated-slow {
+    transition: all 400ms ease-in-out;
+}
